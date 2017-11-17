@@ -33,7 +33,7 @@
             "H2": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "24px",
+              "font-size": "22px",
               "color": "#646262"
             }
           },
@@ -70,12 +70,12 @@
           "_name": "features1",
           "_anchor": "features1-1",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#f3f4f7",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -178,7 +178,7 @@
             "H2": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "24px",
+              "font-size": "22px",
               "color": "#646262"
             }
           },
@@ -216,11 +216,11 @@
           "_anchor": "features1-3",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#f3f4f7",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -347,7 +347,7 @@
             "H2": {
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
-              "font-size": "24px",
+              "font-size": "22px",
               "color": "#646262"
             }
           }
@@ -361,11 +361,11 @@
           "_anchor": "features1-4",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": 3,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3.jpg",
-            "bgColor": "#f2f2f2",
+            "bgColor": "#f3f4f7",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
