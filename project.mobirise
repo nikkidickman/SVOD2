@@ -237,7 +237,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/8-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -277,7 +277,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/4-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/11-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -382,7 +382,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/5-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/8-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -422,7 +422,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/4-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/11-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
