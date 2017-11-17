@@ -257,7 +257,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/64554-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -402,7 +402,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/6-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/64554-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
