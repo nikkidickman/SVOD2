@@ -8,7 +8,7 @@
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -358,13 +358,13 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-4",
+          "_anchor": "features1-a",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/photo-3.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
             "bgColor": "#f3f4f7",
             "bgColorRadio": true,
             "bgVideo": {
@@ -382,7 +382,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/8-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/5-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -397,12 +397,12 @@
               "size": 0
             }
           },
-          "title1": "",
+          "title1": "Bootstrap 3",
           "caption1": "Bootstrap 3 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/64554-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/6-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -422,7 +422,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/11-600x463.png",
+              "src": "@PROJECT_PATH@/assets/images/4-600x463.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -442,7 +442,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary-outline\">More</a>",
           "media4": {
             "image": {
-              "src": "file:///Users/RaviPatel/Library/Application%20Support/Mobirise.com/Mobirise/projectData/feature-websites.png",
+              "src": "@THEME_PATH@/components/_images/feature-websites.png",
               "class": "card-img-top",
               "width": 600,
               "active": true
